@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/b93aa0b53d7e4fb3a32c2769d28e09c7/artifacts
+deleted_time: 1716739689898
+end_time: 1716739627111
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: deleted
+run_id: b93aa0b53d7e4fb3a32c2769d28e09c7
+run_name: luminous-wolf-923
+run_uuid: b93aa0b53d7e4fb3a32c2769d28e09c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716739623049
+status: 4
+tags: []
+user_id: richa
