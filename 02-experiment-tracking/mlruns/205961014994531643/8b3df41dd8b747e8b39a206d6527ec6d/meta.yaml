@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/8b3df41dd8b747e8b39a206d6527ec6d/artifacts
+end_time: 1716777255843
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: active
+run_id: 8b3df41dd8b747e8b39a206d6527ec6d
+run_name: melodic-ram-848
+run_uuid: 8b3df41dd8b747e8b39a206d6527ec6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716777200338
+status: 3
+tags: []
+user_id: richa

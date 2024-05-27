@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/f46d514d14bf4b4989227f3d2213ca65/artifacts
+end_time: 1716778120202
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: active
+run_id: f46d514d14bf4b4989227f3d2213ca65
+run_name: honorable-whale-348
+run_uuid: f46d514d14bf4b4989227f3d2213ca65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716778061306
+status: 3
+tags: []
+user_id: richa

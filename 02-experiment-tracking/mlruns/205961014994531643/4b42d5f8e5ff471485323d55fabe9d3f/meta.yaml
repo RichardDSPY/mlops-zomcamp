@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/4b42d5f8e5ff471485323d55fabe9d3f/artifacts
+end_time: 1716775763123
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: active
+run_id: 4b42d5f8e5ff471485323d55fabe9d3f
+run_name: upbeat-mole-850
+run_uuid: 4b42d5f8e5ff471485323d55fabe9d3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716775735062
+status: 3
+tags: []
+user_id: richa

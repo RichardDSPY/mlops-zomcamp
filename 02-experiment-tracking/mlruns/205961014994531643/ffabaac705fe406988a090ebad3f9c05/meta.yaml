@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/ffabaac705fe406988a090ebad3f9c05/artifacts
+deleted_time: 1716781058845
+end_time: 1716780735594
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: deleted
+run_id: ffabaac705fe406988a090ebad3f9c05
+run_name: welcoming-goose-135
+run_uuid: ffabaac705fe406988a090ebad3f9c05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716780732048
+status: 4
+tags: []
+user_id: richa

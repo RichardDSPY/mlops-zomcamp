@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/22012f38c42649a7b3d4f4480c3c8bba/artifacts
+deleted_time: 1716774335091
+end_time: 1716774160850
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: deleted
+run_id: 22012f38c42649a7b3d4f4480c3c8bba
+run_name: angry-dove-439
+run_uuid: 22012f38c42649a7b3d4f4480c3c8bba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716774156782
+status: 3
+tags: []
+user_id: richa

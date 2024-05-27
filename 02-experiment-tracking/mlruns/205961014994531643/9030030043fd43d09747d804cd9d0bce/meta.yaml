@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/9030030043fd43d09747d804cd9d0bce/artifacts
+end_time: 1716777759179
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: active
+run_id: 9030030043fd43d09747d804cd9d0bce
+run_name: funny-snipe-94
+run_uuid: 9030030043fd43d09747d804cd9d0bce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716777724511
+status: 3
+tags: []
+user_id: richa

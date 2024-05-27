@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/f1e33bac52524014bc7c04b76f7c7a45/artifacts
+end_time: 1716777550307
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: active
+run_id: f1e33bac52524014bc7c04b76f7c7a45
+run_name: whimsical-goose-21
+run_uuid: f1e33bac52524014bc7c04b76f7c7a45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716777479171
+status: 3
+tags: []
+user_id: richa

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/14de28f778bf4d02a3115042c691e9be/artifacts
+end_time: 1716777479153
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: active
+run_id: 14de28f778bf4d02a3115042c691e9be
+run_name: thundering-snipe-731
+run_uuid: 14de28f778bf4d02a3115042c691e9be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716777391587
+status: 3
+tags: []
+user_id: richa

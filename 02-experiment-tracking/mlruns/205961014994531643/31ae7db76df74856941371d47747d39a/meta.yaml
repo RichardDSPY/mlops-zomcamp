@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/31ae7db76df74856941371d47747d39a/artifacts
+end_time: 1716776502346
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: active
+run_id: 31ae7db76df74856941371d47747d39a
+run_name: rare-lark-563
+run_uuid: 31ae7db76df74856941371d47747d39a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716776421296
+status: 3
+tags: []
+user_id: richa

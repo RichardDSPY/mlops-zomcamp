@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/8412e2f35cb142babfb8538c65762b74/artifacts
+end_time: 1716775997680
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: active
+run_id: 8412e2f35cb142babfb8538c65762b74
+run_name: judicious-ant-574
+run_uuid: 8412e2f35cb142babfb8538c65762b74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716775984821
+status: 3
+tags: []
+user_id: richa

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/59933c64880540f28bd28d99690bc07b/artifacts
+end_time: 1716778061282
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: active
+run_id: 59933c64880540f28bd28d99690bc07b
+run_name: salty-wolf-502
+run_uuid: 59933c64880540f28bd28d99690bc07b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716778002423
+status: 3
+tags: []
+user_id: richa

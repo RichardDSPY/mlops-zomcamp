@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/9c04ce677e9c454785ed31b1ef95c241/artifacts
+end_time: 1716778323913
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: active
+run_id: 9c04ce677e9c454785ed31b1ef95c241
+run_name: indecisive-seal-14
+run_uuid: 9c04ce677e9c454785ed31b1ef95c241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716778243736
+status: 3
+tags: []
+user_id: richa

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/497a2ba76fc64ae993c8a36d8725a8ab/artifacts
+end_time: 1716778002402
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: active
+run_id: 497a2ba76fc64ae993c8a36d8725a8ab
+run_name: mercurial-wasp-546
+run_uuid: 497a2ba76fc64ae993c8a36d8725a8ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716777943111
+status: 3
+tags: []
+user_id: richa

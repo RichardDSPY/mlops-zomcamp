@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/7a903e38b5774cd4b18aaf7df0828594/artifacts
+deleted_time: 1716781062917
+end_time: 1716780834012
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: deleted
+run_id: 7a903e38b5774cd4b18aaf7df0828594
+run_name: smiling-shad-908
+run_uuid: 7a903e38b5774cd4b18aaf7df0828594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716780755584
+status: 3
+tags: []
+user_id: richa

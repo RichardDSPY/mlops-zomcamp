@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/bf981a6ac69d4c67b1e1530a59970f1f/artifacts
+end_time: 1716777341036
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: active
+run_id: bf981a6ac69d4c67b1e1530a59970f1f
+run_name: fun-trout-159
+run_uuid: bf981a6ac69d4c67b1e1530a59970f1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716777293432
+status: 3
+tags: []
+user_id: richa

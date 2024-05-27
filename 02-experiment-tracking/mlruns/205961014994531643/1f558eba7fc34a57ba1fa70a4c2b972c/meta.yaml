@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/1f558eba7fc34a57ba1fa70a4c2b972c/artifacts
+end_time: 1716777797575
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: active
+run_id: 1f558eba7fc34a57ba1fa70a4c2b972c
+run_name: nebulous-fly-223
+run_uuid: 1f558eba7fc34a57ba1fa70a4c2b972c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716777759204
+status: 3
+tags: []
+user_id: richa

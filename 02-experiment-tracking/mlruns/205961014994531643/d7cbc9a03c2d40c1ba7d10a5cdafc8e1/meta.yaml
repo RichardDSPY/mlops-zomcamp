@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/d7cbc9a03c2d40c1ba7d10a5cdafc8e1/artifacts
+end_time: 1716777293414
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: active
+run_id: d7cbc9a03c2d40c1ba7d10a5cdafc8e1
+run_name: nosy-loon-202
+run_uuid: d7cbc9a03c2d40c1ba7d10a5cdafc8e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716777255865
+status: 3
+tags: []
+user_id: richa

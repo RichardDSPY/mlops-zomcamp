@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/2d3e55bf74da4cf4a24ad8b677d06a03/artifacts
+end_time: 1716778366333
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: active
+run_id: 2d3e55bf74da4cf4a24ad8b677d06a03
+run_name: painted-yak-861
+run_uuid: 2d3e55bf74da4cf4a24ad8b677d06a03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716778323939
+status: 3
+tags: []
+user_id: richa
