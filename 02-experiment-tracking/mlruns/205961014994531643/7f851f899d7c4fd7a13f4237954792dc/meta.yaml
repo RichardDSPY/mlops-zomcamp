@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/7f851f899d7c4fd7a13f4237954792dc/artifacts
+end_time: 1716860141177
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: active
+run_id: 7f851f899d7c4fd7a13f4237954792dc
+run_name: stately-fowl-585
+run_uuid: 7f851f899d7c4fd7a13f4237954792dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716860093416
+status: 3
+tags: []
+user_id: richa

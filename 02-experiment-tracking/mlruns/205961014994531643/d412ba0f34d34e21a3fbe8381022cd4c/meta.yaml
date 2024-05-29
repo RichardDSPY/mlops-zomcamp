@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643/d412ba0f34d34e21a3fbe8381022cd4c/artifacts
+end_time: 1716860666430
+entry_point_name: ''
+experiment_id: '205961014994531643'
+lifecycle_stage: active
+run_id: d412ba0f34d34e21a3fbe8381022cd4c
+run_name: gaudy-newt-155
+run_uuid: d412ba0f34d34e21a3fbe8381022cd4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716860664282
+status: 3
+tags: []
+user_id: richa
