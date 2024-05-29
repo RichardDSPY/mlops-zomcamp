@@ -161,3 +161,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# Carpetas
+02-experiment-tracking/homework/TAXI_DATA_FOLDER/
+02-experiment-tracking/mlruns

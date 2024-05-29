@@ -1,6 +1,0 @@
-artifact_location: file:///c:/Users/richa/OneDrive/Documentos/Cursos/DataTalksClub/mlops-zoomcamp/02-experiment-tracking/mlruns/205961014994531643
-creation_time: 1716704989884
-experiment_id: '205961014994531643'
-last_update_time: 1716704989884
-lifecycle_stage: active
-name: nyc-taxi-experiment

@@ -1,9 +1,0 @@
-digest: 4c74e29a
-name: dataset
-profile: '{"features_shape": [73908, 13221], "features_size": 977137668, "features_nbytes":
-  3908550672}'
-schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
-  {\"dtype\": \"float32\", \"shape\": [-1, 13221]}}]", "targets": null}}'
-source: '{"tags": {"mlflow.user": "richa", "mlflow.source.name": "c:\\Users\\richa\\OneDrive\\Documentos\\Cursos\\DataTalksClub\\mlops-zoomcamp\\mlopvenv\\Lib\\site-packages\\ipykernel_launcher.py",
-  "mlflow.source.type": "LOCAL"}}'
-source_type: code
