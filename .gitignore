@@ -164,4 +164,4 @@ cython_debug/
 # Carpetas
 02-experiment-tracking/homework/TAXI_DATA_FOLDER/
 02-experiment-tracking/mlruns
-mlops
+#mlops
