@@ -14,7 +14,7 @@ def transform(
 ) -> pd.DataFrame:
 
     split_on_feature = kwargs.get('split_on_feature', 'tpep_pickup_datetime')
-    split_on_feature_value = kwargs.get('split_on_feature_value', '2023-04-01')
+    split_on_feature_value = kwargs.get('split_on_feature_value', '2023-03-20')
     target = kwargs.get('target', 'duration')
 
     df = clean(df)
@@ -27,6 +27,5 @@ def transform(
     )
 
     return df, df_train, df_val
-
 
 
